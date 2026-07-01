@@ -5,5 +5,5 @@ LeetCode is the SAT, while NeetCode is the prep book.
 
 Mind maps, courses, videos, you name it, the website has them all.
 
-# [[Blind 75]]
+## [[Blind 75]]
 

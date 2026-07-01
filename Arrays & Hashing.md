@@ -1,1 +1,3 @@
+## Example Questions
+
 [[Contains Duplicate]]
