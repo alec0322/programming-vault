@@ -1,28 +1,28 @@
 The go-to [[Stack]] LeetCode question.
 
-A string composed of parentheses can only be valid if every open parenthesis has an equivalent closed parenthesis counterpart.
+A string composed of parentheses can only be valid if every open parenthesis has an equivalent closed parenthesis of the **same kind**.
 
 Take the following string:
 ```python
 s = "(){}[]"
 ```
 
-`s` is considered "valid" as each parenthesis has an equal counterpart of the same kind.
+`s` is considered "valid" as each open parenthesis has a corresponding closed parenthesis.
 
-However, a corresponding counterpart is not the only requirement. Take `t`, for example:
+A corresponding counterpart is not the only requirement. Take `t`, for example:
 
 ```python
 t = "(({)}[])"
 ```
 
 `t` has a corresponding closed parenthesis for each open parenthesis.
-	Yet, the nested `{` is accompanied by a `)`, rather than a `}`, meaning this string is invalid. This is because open brackets must be closed in the correct order. This requirement negates the possibility of using a simple frequency map.
+	Yet, the nested `{` is accompanied by a `)`, rather than a `}`, meaning this string is invalid. This is because open parentheses must be closed in the correct order by characters of the same type. This requirement negates the possibility of using a simple frequency map.
 
 
 If we use a stack to track the position of parentheses, any time we encounter a closed parenthesis `c` within the string, we know there **must** be a corresponding open parenthesis `d` at the top of our stack for the string to be valid.
 
-Additionally, since we know exactly what the denominated "open" and "closed" parentheses are are, we can use a `dict` to programmatically these relationships in `O(1)`
-	To a human, a closed parenthesis would evidently be `)`, but programmatically we could technically make it whatever character we want, like `%`. 
+Additionally, since we know exactly what the denominated "open" and "closed" parentheses are, we can use a `dict` to programmatically fetch these relationships in `O(1)`
+	To a human, a closed parenthesis would evidently be `)`, but programmatically we could make it whatever character we want, like `%`. 
  
 ```python
 def isValid(self, s: str) -> bool: 
