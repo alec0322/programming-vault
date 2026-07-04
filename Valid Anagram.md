@@ -5,7 +5,7 @@ An **anagram** is a word or phrase formed by rearranging the letters of a differ
 From a mathematical perspective, this means that the frequency of any character `c` in `s` must be equal to the frequency of `c` in `t`
 	This implies that if `c` is not in `t`, `s` and `t` could never be anagrams of each other.
 
-Arguably one of the best introductions to [[HashMaps]]
+Arguably one of the best introductions to [[HashMap]]
 
 If we think in set theory, `s.freq(c) == t.freq(c)`. We can recreate this function using maps.
 
