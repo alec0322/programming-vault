@@ -11,10 +11,14 @@
             "id": "b763723c66052a04",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Group Anagrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Group Anagrams"
             }
           }
         ]
@@ -27,14 +31,10 @@
             "id": "82d9d1eb4f0de489",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Two Sum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Two Sum"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -209,17 +209,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82d9d1eb4f0de489",
+  "active": "b763723c66052a04",
   "lastOpenFiles": [
-    "HashMap.md",
-    "Two Sum.md",
+    "Hashing.md",
+    "Group Anagrams.md",
     "Valid Anagram.md",
     "Arrays & Hashing.md",
+    "Two Sum.md",
+    "Blind 75.md",
+    "HashMap.md",
     "Contains Duplicate.md",
     "HashSet.md",
     "Valid Parentheses.md",
     "Stack.md",
-    "Blind 75.md",
     "DSA.md",
     "LeetCode.md",
     "NeetCode.md",

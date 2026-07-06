@@ -1,6 +1,6 @@
 The most popular DSA question of all time. 
 
-The brute force solution couldn't be more straightforward. Since we know there is exactly **one** answer, we can simply iterate over all numbers and compare any `nums[i]` to any `nums[j]` that equals `target`:
+The brute force solution couldn't be more straightforward. Since we know there is exactly **one** answer, we can simply iterate over all numbers and get the sum of any `nums[i]` plus any `nums[j]` that equals `target`:
 
 ```python
 def twoSum(self, nums: List[int], target: int) -> List[int]:
