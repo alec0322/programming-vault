@@ -5,3 +5,5 @@ As the acronym suggests, whatever item is last inserted into a stack is the firs
 ## Example Questions
 
 [[Valid Parentheses]]
+
+[[Min Stack]]

@@ -37,5 +37,5 @@ print(list(freq.items())) # Returns [(1,3), (2,1), (1,1)]
 ```
 
 The sorting function is what's truly doing the heavy lifting in this answer.
-1) They `key` parameter tells the sorting function what logic to use when sorting, in this case we tell it to sort by the value of `x[1]` (which is equivalent to the 2nd value of any `x` array passed)
-2) The `reverse` boolean is obvious, not necessary but makes our lives easier as we are looking for the top `k` (highest to smallest) elements
+1) They `key` parameter tells the sorting function what logic to use when sorting, in this case we tell it to sort by the value of `x[1]` (which is equivalent to the 2nd value of any `x` variable passed)
+2) The `reverse` boolean is obvious, not necessary but makes our lives easier as we are looking for the top `k` (highest to smallest) elements - Sorting is from smallest to highest by default.
