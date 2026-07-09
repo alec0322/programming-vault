@@ -21,7 +21,7 @@ t = "(({)}[])"
 
 If we use a stack to track the position of parentheses, any time we encounter a closed parenthesis `c` within the string, we know there **must** be a corresponding open parenthesis `d` at the top of our stack for the string to be valid.
 
-Additionally, since we know exactly what the denominated "open" and "closed" parentheses are, we can use a `dict` to programmatically fetch these relationships in `O(1)`
+Additionally, since we know exactly what the denominated "open" and "closed" parentheses are, we can use a [[HashMap]] to programmatically fetch these relationships in `O(1)`
 	To a human, a closed parenthesis would evidently be `)`, but programmatically we could make it whatever character we want, like `%`. 
  
 ```python
