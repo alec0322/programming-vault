@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58eb2721049d62de",
+            "id": "140d365eb83c43cc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 425.5
   },
   "right": {
     "id": "3a1dffe7f594a387",
@@ -186,29 +186,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "58eb2721049d62de",
+  "active": "140d365eb83c43cc",
   "lastOpenFiles": [
+    "Breadth First Search.md",
+    "Trees.md",
+    "Contains Duplicate.md",
+    "Arrays & Hashing.md",
+    "Blind 75.md",
+    "Maximum Depth of Binary Tree.md",
+    "Binary Tree Level Order Traversal.md",
+    "Excalidraw/Level Order Traversal.md",
+    "Excalidraw/Binary Tree Example.md",
+    "Untitled.canvas",
+    "Excalidraw",
+    "Group Anagrams.md",
+    "DSA.md",
+    "Two Sum.md",
+    "Untitled.base",
+    "Pasted image 20260712184910.png",
+    "Height (Trees).md",
+    "Depth (Trees).md",
+    "Depth.md",
+    "Depth First Search.md",
+    "Invert Binary Tree.md",
+    "Stack.md",
     "Valid Parentheses.md",
     "Min Stack.md",
-    "Group Anagrams.md",
-    "Arrays & Hashing.md",
     "Top K Frequent Elements.md",
-    "Stack.md",
     "Valid Anagram.md",
     "LeetCode.md",
     "Hashing.md",
-    "Two Sum.md",
-    "Blind 75.md",
     "HashMap.md",
-    "Contains Duplicate.md",
-    "HashSet.md",
-    "DSA.md",
-    "NeetCode.md",
-    "Untitled 1.md",
-    "create a link.md",
-    "Welcome.md"
+    "HashSet.md"
   ]
 }
