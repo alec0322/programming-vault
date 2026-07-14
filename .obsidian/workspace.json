@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1fa45bb60178a9f4",
+        "id": "47a9ae3e37f49260",
         "type": "tabs",
         "children": [
           {
-            "id": "140d365eb83c43cc",
+            "id": "5933fa169ce9e717",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "House Robber.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "House Robber"
             }
           }
         ]
@@ -190,17 +194,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "140d365eb83c43cc",
+  "active": "5933fa169ce9e717",
   "lastOpenFiles": [
-    "Breadth First Search.md",
+    "House Robber.md",
+    "Memoization.md",
+    "Dynamic Programming.md",
     "Trees.md",
+    "Blind 75.md",
+    "Excalidraw/Binary Tree Example.md",
+    "In-Order Traversal.md",
+    "Validate Binary Search Tree.md",
+    "Excalidraw/In Order Traversal Example.md",
+    "Excalidraw/Binary Search Tree Example.md",
+    "Excalidraw/Level Order Traversal Example.md",
+    "Breadth First Search.md",
+    "HashMap.md",
     "Contains Duplicate.md",
     "Arrays & Hashing.md",
-    "Blind 75.md",
     "Maximum Depth of Binary Tree.md",
     "Binary Tree Level Order Traversal.md",
-    "Excalidraw/Level Order Traversal.md",
-    "Excalidraw/Binary Tree Example.md",
     "Untitled.canvas",
     "Excalidraw",
     "Group Anagrams.md",
@@ -213,14 +225,6 @@
     "Depth.md",
     "Depth First Search.md",
     "Invert Binary Tree.md",
-    "Stack.md",
-    "Valid Parentheses.md",
-    "Min Stack.md",
-    "Top K Frequent Elements.md",
-    "Valid Anagram.md",
-    "LeetCode.md",
-    "Hashing.md",
-    "HashMap.md",
-    "HashSet.md"
+    "Stack.md"
   ]
 }

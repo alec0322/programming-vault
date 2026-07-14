@@ -10,3 +10,5 @@ Kind of how all squares are rectangles but not all rectangles are squares, all t
 [[Invert Binary Tree]]
 
 [[Maximum Depth of Binary Tree]]
+
+[[Validate Binary Search Tree]]

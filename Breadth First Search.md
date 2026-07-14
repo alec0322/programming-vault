@@ -6,7 +6,7 @@ The easiest way to picture what a BFS does is with a few drawings. Take a binary
 
 A BFS would let us iterate over the nodes in the following order: `1A, 2A, 2B, 3A, 3B`. Effectively from top to bottom, from left to right, one level at a time.
 
-![[Level Order Traversal]]
+![[Level Order Traversal Example]]
 
 BFS algorithms are also synonymous with [[Queues]], as each level is formed from the nodes that were appended to the queue during the processing of the previous level. Since a tree always starts at one node, the first level is always the root of the tree:
 
