@@ -6,3 +6,5 @@ The quintessential list of [[DSA]], any programmer going into a technical interv
 ## [[Trees]]
 
 ## [[Dynamic Programming]]
+
+## [[Backtracking]]
