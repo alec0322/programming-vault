@@ -49,11 +49,17 @@ def permute(self, nums: List[int]) -> List[List[int]]:
 		else:
 			i = 0
 			while i < len(available):
+				# mutate
 				n = available.pop(i)
 				curr.append(n)
+				
+				# recurse
 				dfs(curr, available)
+				
+				# backtrack
 				curr.pop()
 				available.insert(i, n)
+				
 				i += 1				
 	
 	dfs([], nums[:]) # pass a shallow copy of nums to leave input untouched
