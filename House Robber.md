@@ -7,7 +7,7 @@ houses = [1,2,3,1]
 Why not just maximize the amount of money we get out of this heist and rob all houses in the neighborhood? Well, there's a security system that will catch us **if we rob two houses that are next to each other**.
 ## Brute Force
 
-We can use a DFS to visit all possible paths we can take and then return the maximum profit.
+We can use a [[Depth First Search]] algorithm to visit all possible paths we can take and then return the maximum profit.
 
 Evidently, this is a terrible solution, if there are 1 million houses next to each other, we could have a #TimeComplexity of `O(2^1000000)`
 
