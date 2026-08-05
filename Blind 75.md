@@ -9,3 +9,5 @@ The quintessential list of [[DSA]], any programmer going into a technical interv
 ## [[Dynamic Programming]]
 
 ## [[Backtracking]]
+
+## [[Math & Geometry]]
