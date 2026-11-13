@@ -13,12 +13,64 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zigzag Conversion.md",
+                "file": "Interview Prep/Arrays & Hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zigzag Conversion"
+              "title": "Arrays & Hashing"
+            }
+          },
+          {
+            "id": "c83195237b1614df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Prep/Arrays & Hashing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arrays & Hashing"
+            }
+          },
+          {
+            "id": "13a8a9ae6aad822d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Prep/Contains Duplicate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contains Duplicate"
+            }
+          },
+          {
+            "id": "fcf4dc4799e5a926",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8ffc0e70b3e074af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stone Game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stone Game"
             }
           },
           {
@@ -49,7 +101,8 @@
               "title": "Arrays & Hashing"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,35 +287,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7741f05e4cd4cf78",
+  "active": "fcf4dc4799e5a926",
   "lastOpenFiles": [
-    "HashMap.md",
-    "Zigzag Conversion.md",
-    "Permutations.md",
-    "Arrays & Hashing.md",
-    "Stone Game.md",
-    "Blind 75.md",
+    "Prompt Engineering.md",
+    "Interview Prep/Contains Duplicate.md",
+    "Interview Prep/Arrays & Hashing.md",
+    "Interview Prep/Backtracking.md",
+    "Interview Prep",
+    "AI.md",
+    "Interview Prep/AI Coding.md",
+    "Interview Prep/NeetCode.md",
+    "Excalidraw/Level Order Traversal Example.md",
+    "Interview Prep/Find the Lexicographically Smallest Valid Sequence.md",
+    "Interview Prep/Stone Game.md",
+    "Interview Prep/Dynamic Programming.md",
+    "Interview Prep/Blind 75.md",
+    "Interview Prep/Zigzag Conversion.md",
+    "Interview Prep/HashMap.md",
+    "Interview Prep/Permutations.md",
     "Excalidraw/House Robber II Sketch.md",
-    "Math & Geometry.md",
+    "Interview Prep/Math & Geometry.md",
     "Excalidraw/Drawing 2026-08-02 19.28.52.excalidraw.md",
-    "House Robber.md",
-    "Dynamic Programming.md",
+    "Interview Prep/House Robber.md",
     "Excalidraw/Stone Game Sketch.md",
     "Excalidraw/Stone Game Sketch 1.md",
     "Untitled.canvas",
     "Excalidraw/Binary Search Tree Example.md",
     "Excalidraw/Permutations Sketch.md",
-    "Backtracking.md",
     "Excalidraw/Binary Search Tree Example 1.md",
     "Excalidraw/House Robber II Sketch 2.md",
-    "Excalidraw/Level Order Traversal Example.md",
     "Excalidraw/Level Order Traversal Example 1.md",
-    "Excalidraw/In Order Traversal Example.md",
-    "Excalidraw/Binary Tree Example.md",
-    "Stack.md",
-    "Trees.md",
-    "House Robber II.md",
-    "Validate Binary Search Tree.md",
     "Excalidraw",
     "Untitled.base",
     "Pasted image 20260712184910.png"

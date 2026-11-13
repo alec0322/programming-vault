@@ -107,7 +107,7 @@ def stoneGame(self, piles: List[int]) -> bool:
 			pick_last = -piles[r] + dp(turn + 1, l, r - 1)
 			return min(pick_first, pick_last)
 	
-	return dp(0, 0, len(piles)-1)
+	return dp(0, 0, len(piles)-1) > 0
 ```
 
 The funniest thing about this problem, however, is that since the number of piles is ALWAYS even, and Alice ALWAYS plays first, she can always win this game (since she's assumed to play optimally)

@@ -5,5 +5,6 @@ LeetCode is the SAT, while NeetCode is the prep book.
 
 Mind maps, courses, videos, you name it, the website has them all.
 
+## [[AI Coding]]
 ## [[Blind 75]]
 
