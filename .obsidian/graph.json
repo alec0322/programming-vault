@@ -5,8 +5,16 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Interview Preparation\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16687382
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1,
@@ -17,6 +25,6 @@
   "repelStrength": 10.2083333333333,
   "linkStrength": 0.791666666666667,
   "linkDistance": 192,
-  "scale": 0.373729529280283,
+  "scale": 0.5087618855792444,
   "close": true
 }
