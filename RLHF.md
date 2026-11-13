@@ -1,0 +1,1 @@
+"Reinforcement Learning with Human Feedback" is the process used in LLM training in which humans flag unhelpful or problematic LLM predictions. These flags are then used to tune the LLM's parameters to favor predictions that are preferred by humans.
